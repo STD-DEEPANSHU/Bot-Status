@@ -1,4 +1,4 @@
-#Copyright ©️ 2022 Dev Arora. All Rights Reserved.
+#Copyright ©️ 2025 STD-DEEPANSHU. All Rights Reserved.
 import os
 import re
 import pytz
@@ -64,4 +64,4 @@ async def main_devchecker():
                         
 app.run(main_devchecker())
 
-#Copyright ©️ 2022 Dev Arora. All Rights Reserved.
+#Copyright ©️ 2025 STD-DEEPANSHU. All Rights Reserved.
